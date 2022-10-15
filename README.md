@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericogbekene
-- 👀 I’m interested in front end Web development, Brand and visual identity 
+- 👀 I’m interested in front end Web development, Brand and visual identity, Project Management
 - 🌱 I’m currently learning Javascript, React, Tailwind CSS 
 - 💞️ I’m looking to collaborate on Web projects, Design briefs, Content Strategy
 - 📫 How to reach me ...
