@@ -44,3 +44,16 @@ body, h1, p, button {
     font-size: 24px;
     margin-top: 20px;
 }
+.hero-container
+{
+    flex: 1;
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    height: 20px;
+}
+.hero-container img
+{
+    max-width: 100%;
+    height: auto;
+}
